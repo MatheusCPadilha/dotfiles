@@ -1,0 +1,2 @@
+# dotfiles
+backup .config Hyprland
